@@ -11,7 +11,7 @@ Built with:
 ### Home
 
 <p align="center">
-  <img src="https://github.com/jivkovaviktoria/L-Angolo-Toscano/assets/85957657/98a20f69-0141-420e-a41e-326c8a6f2877" width="300px" height="150px"/>
+  <img src="https://github.com/jivkovaviktoria/L-Angolo-Toscano/assets/85957657/4af114f2-0089-42b1-a439-c47062b42742" width="300px" height="150px"/>
   <img src="https://github.com/jivkovaviktoria/L-Angolo-Toscano/assets/85957657/65647414-1f4e-4067-8c2c-cc3879ddfcc5" width="300px" height="150px"/>
 </p>
 
