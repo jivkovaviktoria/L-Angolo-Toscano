@@ -120,3 +120,14 @@
         text-align: start;
     }
 }
+
+dialog {
+    padding: 0.5rem;
+    background: white;
+    border-radius: 0.25rem;
+    z-index: 10;
+}
+
+dialog .open{
+    display: block;
+}
