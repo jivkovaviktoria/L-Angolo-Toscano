@@ -10,3 +10,40 @@
       margin-right: 10%;
     }
 }
+
+.card {
+    border: 2px solid rgb(236, 233, 233);
+    border-radius: 1em;
+    width: 16em;
+    height: 22em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+
+    h4 {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bolder;
+    }
+
+    p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        text-align: center;
+        padding: 0.5em 1em 0.5em 1em;
+    }
+
+    a{
+        font-weight: bolder;
+        padding: 0.5em 1em 0.5em 1em;
+        border-radius: 5em;
+    }
+
+    a:hover{
+        cursor: pointer;
+        color: black;
+        background-color: rgb(222, 221, 221);
+    }
+}
